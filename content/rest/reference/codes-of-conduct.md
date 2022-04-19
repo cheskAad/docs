@@ -1,4 +1,4 @@
----
+---https://gmail.com/dianah lomio
 title: Codes of conduct
 intro: The Codes of Conduct API lets you to retrieve the information about a particular repository's code of conduct.
 redirect_from:
